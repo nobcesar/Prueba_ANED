@@ -1,0 +1,112 @@
+2024-07-20 01:18:34.248519: 
+Resultados para el archivo: C:/Users/nobce/OneDrive/Documentos/PRUEBA CIENCITIFICO DATOS/PUNTO_2/json\001-1007202-220301269555588250_pag1.json
+2024-07-20 01:18:34.248519: Nro_Matricula: 001-1007202
+2024-07-20 01:18:34.249507: Fecha_Impresion: 2022-03-01
+2024-07-20 01:18:34.250538: Departamento: antioquia
+2024-07-20 01:18:34.250538: Municipio: medellin
+2024-07-20 01:18:34.250538: Vereda: medellin
+2024-07-20 01:18:34.251506: ESTADO DEL FOLIO: ACTIVO
+2024-07-20 01:18:34.251506: ==============================
+2024-07-20 01:18:34.257054: 
+Resultados para el archivo: C:/Users/nobce/OneDrive/Documentos/PRUEBA CIENCITIFICO DATOS/PUNTO_2/json\001-pag1_prueba.json
+2024-07-20 01:18:34.258131: Nro_Matricula: 001-110497
+2024-07-20 01:18:34.258131: Fecha_Impresion: 2026-03-03
+2024-07-20 01:18:34.259130: Departamento: san andres
+2024-07-20 01:18:34.259130: Municipio: ibague 1
+2024-07-20 01:18:34.259130: Vereda: chaparral 2
+2024-07-20 01:18:34.259130: ESTADO DEL FOLIO: ACTIVO
+2024-07-20 01:18:34.260077: ==============================
+2024-07-20 01:18:34.266619: 
+Resultados para el archivo: C:/Users/nobce/OneDrive/Documentos/PRUEBA CIENCITIFICO DATOS/PUNTO_2/json\040-464031-220204640254303951_pag1.json
+2024-07-20 01:18:34.266619: Nro_Matricula: 040-464031
+2024-07-20 01:18:34.267594: Fecha_Impresion: 2022-02-04
+2024-07-20 01:18:34.267594: Departamento: atlantico
+2024-07-20 01:18:34.267594: Municipio: barranquilla
+2024-07-20 01:18:34.267594: Vereda: barranquilla
+2024-07-20 01:18:34.268590: ESTADO DEL FOLIO: ACTIVO
+2024-07-20 01:18:34.268590: ==============================
+2024-07-20 01:18:34.269633: Resultados guardados en c:\Users\nobce\OneDrive\Documentos\PRUEBA CIENCITIFICO DATOS\PUNTO_2\results\resultados_2024-07-20.csv
+2024-07-20 01:28:14.763019: 
+Resultados para el archivo: C:/Users/nobce/OneDrive/Documentos/PRUEBA CIENCITIFICO DATOS/PUNTO_2/json\001-1007202-220301269555588250_pag1.json
+2024-07-20 01:28:14.763019: Nro_Matricula: 001-1007202
+2024-07-20 01:28:14.764013: Fecha_Impresion: 2022-03-01
+2024-07-20 01:28:14.764013: Departamento: antioquia
+2024-07-20 01:28:14.764013: Municipio: medellin
+2024-07-20 01:28:14.764013: Vereda: medellin
+2024-07-20 01:28:14.765163: ESTADO DEL FOLIO: ACTIVO
+2024-07-20 01:28:14.765163: ==============================
+2024-07-20 01:28:14.769438: 
+Resultados para el archivo: C:/Users/nobce/OneDrive/Documentos/PRUEBA CIENCITIFICO DATOS/PUNTO_2/json\001-pag1_prueba.json
+2024-07-20 01:28:14.770426: Nro_Matricula: 001-110497
+2024-07-20 01:28:14.770426: Fecha_Impresion: 2026-03-03
+2024-07-20 01:28:14.770426: Departamento: san andres
+2024-07-20 01:28:14.770426: Municipio: ibague 1
+2024-07-20 01:28:14.771515: Vereda: chaparral 2
+2024-07-20 01:28:14.771515: ESTADO DEL FOLIO: ACTIVO
+2024-07-20 01:28:14.771515: ==============================
+2024-07-20 01:28:14.776649: 
+Resultados para el archivo: C:/Users/nobce/OneDrive/Documentos/PRUEBA CIENCITIFICO DATOS/PUNTO_2/json\040-464031-220204640254303951_pag1.json
+2024-07-20 01:28:14.777640: Nro_Matricula: 040-464031
+2024-07-20 01:28:14.777640: Fecha_Impresion: 2022-02-04
+2024-07-20 01:28:14.777640: Departamento: atlantico
+2024-07-20 01:28:14.777640: Municipio: barranquilla
+2024-07-20 01:28:14.778637: Vereda: barranquilla
+2024-07-20 01:28:14.778637: ESTADO DEL FOLIO: ACTIVO
+2024-07-20 01:28:14.778637: ==============================
+2024-07-20 01:28:14.778637: Resultados guardados en c:\Users\nobce\OneDrive\Documentos\PRUEBA CIENCITIFICO DATOS\PUNTO_2\results\resultados_2024-07-20.csv
+2024-07-20 17:49:51.835852: 
+Resultados para el archivo: C:/Users/nobce/OneDrive/Documentos/PRUEBA CIENCITIFICO DATOS/PUNTO_2/json\001-1007202-220301269555588250_pag1.json
+2024-07-20 17:49:51.837271: Nro_Matricula: 001-1007202
+2024-07-20 17:49:51.837271: Fecha_Impresion: 2022-03-01
+2024-07-20 17:49:51.837271: Departamento: antioquia
+2024-07-20 17:49:51.838269: Municipio: medellin
+2024-07-20 17:49:51.838269: Vereda: medellin
+2024-07-20 17:49:51.838269: ESTADO DEL FOLIO: ACTIVO
+2024-07-20 17:49:51.839396: ==============================
+2024-07-20 17:49:51.848420: 
+Resultados para el archivo: C:/Users/nobce/OneDrive/Documentos/PRUEBA CIENCITIFICO DATOS/PUNTO_2/json\001-pag1_prueba.json
+2024-07-20 17:49:51.848420: Nro_Matricula: 001-110497
+2024-07-20 17:49:51.848420: Fecha_Impresion: 2026-03-03
+2024-07-20 17:49:51.848420: Departamento: san andres
+2024-07-20 17:49:51.849908: Municipio: ibague 1
+2024-07-20 17:49:51.849908: Vereda: chaparral 2
+2024-07-20 17:49:51.849908: ESTADO DEL FOLIO: ACTIVO
+2024-07-20 17:49:51.850924: ==============================
+2024-07-20 17:49:51.860203: 
+Resultados para el archivo: C:/Users/nobce/OneDrive/Documentos/PRUEBA CIENCITIFICO DATOS/PUNTO_2/json\040-464031-220204640254303951_pag1.json
+2024-07-20 17:49:51.860203: Nro_Matricula: 040-464031
+2024-07-20 17:49:51.861214: Fecha_Impresion: 2022-02-04
+2024-07-20 17:49:51.861214: Departamento: atlantico
+2024-07-20 17:49:51.861214: Municipio: barranquilla
+2024-07-20 17:49:51.861214: Vereda: barranquilla
+2024-07-20 17:49:51.861214: ESTADO DEL FOLIO: ACTIVO
+2024-07-20 17:49:51.862668: ==============================
+2024-07-20 17:49:51.862668: Resultados guardados en c:\Users\nobce\OneDrive\Documentos\PRUEBA CIENCITIFICO DATOS\PUNTO_2\results\resultados_2024-07-20.csv
+2024-07-20 19:11:36.516159: 
+Resultados para el archivo: C:/Users/nobce/OneDrive/Documentos/PRUEBA CIENCITIFICO DATOS/PUNTO_2/json\001-1007202-220301269555588250_pag1.json
+2024-07-20 19:11:36.516707: Nro_Matricula: 001-1007202
+2024-07-20 19:11:36.517018: Fecha_Impresion: 2022-03-01
+2024-07-20 19:11:36.517018: Departamento: antioquia
+2024-07-20 19:11:36.517647: Municipio: medellin
+2024-07-20 19:11:36.517647: Vereda: medellin
+2024-07-20 19:11:36.517647: ESTADO DEL FOLIO: ACTIVO
+2024-07-20 19:11:36.518229: ==============================
+2024-07-20 19:11:36.522070: 
+Resultados para el archivo: C:/Users/nobce/OneDrive/Documentos/PRUEBA CIENCITIFICO DATOS/PUNTO_2/json\001-pag1_prueba.json
+2024-07-20 19:11:36.522070: Nro_Matricula: 001-110497
+2024-07-20 19:11:36.522070: Fecha_Impresion: 2026-03-03
+2024-07-20 19:11:36.522070: Departamento: san andres
+2024-07-20 19:11:36.522070: Municipio: ibague 1
+2024-07-20 19:11:36.522070: Vereda: chaparral 2
+2024-07-20 19:11:36.524877: ESTADO DEL FOLIO: ACTIVO
+2024-07-20 19:11:36.525941: ==============================
+2024-07-20 19:11:36.530723: 
+Resultados para el archivo: C:/Users/nobce/OneDrive/Documentos/PRUEBA CIENCITIFICO DATOS/PUNTO_2/json\040-464031-220204640254303951_pag1.json
+2024-07-20 19:11:36.531604: Nro_Matricula: 040-464031
+2024-07-20 19:11:36.531862: Fecha_Impresion: 2022-02-04
+2024-07-20 19:11:36.532912: Departamento: atlantico
+2024-07-20 19:11:36.532912: Municipio: barranquilla
+2024-07-20 19:11:36.532912: Vereda: barranquilla
+2024-07-20 19:11:36.532912: ESTADO DEL FOLIO: ACTIVO
+2024-07-20 19:11:36.534359: ==============================
+2024-07-20 19:11:36.534359: Resultados guardados en c:\Users\nobce\OneDrive\Documentos\PRUEBA CIENCITIFICO DATOS\PUNTO_2\results\resultados_2024-07-20.csv
